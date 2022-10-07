@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200&family=Roboto+Mono:wght@200&display=swap');
+
+h1{
+  font-size: 3em;
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto Mono', monospace;
+}
+
+header {
+  font-size: 1.75em;
+  font-weight: bold;
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto Mono', monospace;
+  font-style: bold;
+}
+
+#navbar{
+  width: 45%;
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto Mono', monospace;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+}
+
+a:hover{
+  font-weight: bold;
+}
+
+body  {
+background-color: #868BEE;
+}
+
+main{
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto Mono', monospace;
+}
+
+code{
+    display:block;
+    text-align: left;
+    white-space: pre;
+    line-height: 2;
+    background-color:#1D1128;
+    padding:15px;
+    margin:10px;
+    color: #E5D4ED;
+    border-radius:5px;
+}
